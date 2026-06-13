@@ -1,0 +1,17 @@
+# Data Manipulation and Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Visualization and Dashboard
+matplotlib
+seaborn
+plotly
+dash
+
+# Jupyter Notebooks
+jupyter
+ipython
